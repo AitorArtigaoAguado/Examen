@@ -2,9 +2,11 @@
 	<div class="collapse navbar-collapse">
 		<a href="/" class="navbar-brand">Fixed navbar</a>
 		<div class="navbar-nav">
-			<a href="/" class="nav-item nav-link">Home</a> 
-			<a href="/link" class="nav-item nav-link">Link</a> 
-			<a href="/disabled" class="nav-item nav-link">Disabled</a>
+			<a href="/" class="nav-item nav-link">Home</a> <a href="/migraciones"
+				class="nav-item nav-link">Migraciones</a> <a href="/seeders"
+				class="nav-item nav-link">Seeders</a>
+				<a href="/email"
+				class="nav-item nav-link">Email</a>
 		</div>
 	</div>
 </nav>

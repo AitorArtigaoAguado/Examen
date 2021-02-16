@@ -21,6 +21,8 @@
 @include ('menu') 
 
 @yield('mycontent')
+
+@include('footer')
 </div>
 </body>
 </html>
